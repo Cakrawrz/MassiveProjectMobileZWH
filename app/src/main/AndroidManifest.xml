@@ -13,6 +13,24 @@
         android:theme="@style/Theme.MassiveProjectMobileZWH"
         tools:targetApi="31">
         <activity
+            android:name=".BerandaA6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".BerandaA5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".BerandaA4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".BerandaA3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".BerandaA2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".BerandaA1Activity"
+            android:exported="false" />
+        <activity
             android:name=".ProfilePenggunaActivity"
             android:exported="false" />
         <activity

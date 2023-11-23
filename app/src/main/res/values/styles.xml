@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SearchStyle" parent="Widget.AppCompat.SearchView">
+        <!-- Menyesuaikan warna teks -->
+        <item name="android:queryHint">@color/black</item>
+        <item name="android:textColor">@color/colorutama</item>
+        <!-- Menyesuaikan ikon kaca pembesar -->
+        <item name="searchIcon">@drawable/bt_back</item>
+        <!-- Menyesuaikan ikon tutup pencarian -->
+        <item name="closeIcon">@drawable/bt_back</item>
+        <!-- Menyesuaikan warna latar belakang -->
+        <item name="android:background">@color/black</item>
+    </style>
+
+</resources>
